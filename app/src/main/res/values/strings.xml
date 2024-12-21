@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TaskBox</string>
+    <string name="my_task">My Task</string>
+    <string name="see_all">See all ></string>
+    <string name="delete_confirmation">%1$s do you want to delete?</string>
+    <string name="no_tasks">No tasks available.\nAdd a new task!!</string>
+    <string name="home">Home</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_date_range">Select date range</string>
+    <string name="search_label">Search</string>
+    <string name="task_details_title">Task Details</string>
+    <string name="task_register_title">New Task</string>
+    <string name="task_title_label">Task Title</string>
+    <string name="task_title_ph">Enter Task Title</string>
+    <string name="task_description_label">Task Description</string>
+    <string name="task_description_ph">Enter Task Description</string>
+    <string name="select_date_label">Select Date</string>
+    <string name="update_task_button">Update Task</string>
+    <string name="register_task_button"> + Create Task</string>
+    <string name="back_button_description">Back</string>
+    <string name="toast_message">Please fill in all fields</string>
+
+</resources>

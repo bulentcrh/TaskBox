@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TaskBox</string>
+    <string name="my_task">Görevlerim</string>
+    <string name="see_all">Hepsini gör ></string>
+    <string name="delete_confirmation">%1$s silmek istediğinizden emin misiniz?</string>
+    <string name="no_tasks">Hiç görev yok.\nYeni bir görev ekleyin!!</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="my_tasks">Görevler</string>
+    <string name="favorite">Favoriler</string>
+    <string name="account">Hesap</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="select_date_range">Tarih aralığı seç</string>
+    <string name="search_label">Ara</string>
+    <string name="task_details_title">Görev Detayları</string>
+    <string name="task_register_title">Yeni Görev</string>
+    <string name="task_title_label">Görev Başlığı</string>
+    <string name="task_title_ph">Görev Başlığı Girin</string>
+    <string name="task_description_label">Görev Açıklaması</string>
+    <string name="task_description_ph">Görev Açıklaması Girin</string>
+    <string name="select_date_label">Tarih Seç</string>
+    <string name="update_task_button">Görevi Güncelle</string>
+    <string name="register_task_button"> + Görev Oluştur</string>
+    <string name="back_button_description">Geri</string>
+    <string name="toast_message">Lütfen tüm alanları doldurun</string>
+</resources>
