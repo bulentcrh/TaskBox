@@ -1,23 +1,23 @@
-##  **TaskBox**  
+## **TaskBox**  
 
-Belirli tarih aralıklarında görevlerinizi, hedeflerinizi ve işlerinizi planlayarak hayatınızı daha düzenli hale getirin! **TaskBox**, kullanıcı dostu arayüzü ve güçlü özellikleriyle verimliliğinizi artırmak için tasarlandı.  
+Plan your tasks, goals, and activities within specific date ranges and make your life more organized! **TaskBox** is designed to enhance your productivity with its user-friendly interface and powerful features.  
 
 ---
 
-## 📋 **Proje Açıklaması**  
-**TaskBox**, kullanıcıların görevlerini belirli tarih aralıklarında planlayıp takip edebileceği, tamamlanma durumlarını güncelleyebileceği ve önceliklerini belirleyebileceği bir yapılacaklar listesi uygulamasıdır. Esnek yapısı sayesinde hem bireysel hem de profesyonel kullanım için uygundur.  
+## 📋 **Project Description**  
+**TaskBox** is a task management application that allows users to plan and track their tasks within specific date ranges, update their completion status, and set priorities. Its flexible structure makes it suitable for both personal and professional use.  
 
-###  **Kullanılan Teknolojiler Ve Özellikler** 
-- **Kotlin** 
-- **MVVM**
-- **Jetpack Compose**
-- **Hilt**
-- **Room**
-- **LiveData**
-- **Navigation**
-- **Gson**
-- **Kotlin Coroutines**
-- **AndroidX**
-- **Multi-Language Support**
-- **Dark/Light Mode Support**
+### **Technologies and Features Used**  
+- **Kotlin**  
+- **MVVM**  
+- **Jetpack Compose**  
+- **Hilt**  
+- **Room**  
+- **LiveData**  
+- **Navigation**  
+- **Gson**  
+- **Kotlin Coroutines**  
+- **AndroidX**  
+- **Multi-Language Support**  
+- **Dark/Light Mode Support**  
 - **Dynamic Color Adaptation**
