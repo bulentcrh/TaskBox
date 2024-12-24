@@ -1,3 +1,5 @@
+<img src="image/kayıt.mp4" alt="Light1" width="200"/>
+
 ## **TaskBox**  
 
 Plan your tasks, goals, and activities within specific date ranges and make your life more organized! **TaskBox** is designed to enhance your productivity with its user-friendly interface and powerful features.  
