@@ -12,8 +12,8 @@ Plan your tasks, goals, and activities within specific date ranges and make your
 - **Kotlin**  
 - **MVVM**  
 - **Jetpack Compose**  
-- **Hilt**  
-- **Room**  
+- **Dagger Hilt for Dependency Injection**  
+- **Room Databese**  
 - **LiveData**  
 - **Navigation**  
 - **Gson**  
